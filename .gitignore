@@ -2,3 +2,5 @@ sample_submission.csv
 test_features.npy
 train_dataset.csv
 train_features.npy
+*.csv
+__pycache__/
